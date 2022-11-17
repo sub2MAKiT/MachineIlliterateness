@@ -1,0 +1,1 @@
+gcc -I ./src/ ./src/main.c ./src/math/exp.c -o ./build/main.exe
